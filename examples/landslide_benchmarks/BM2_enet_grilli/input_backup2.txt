@@ -14,8 +14,8 @@ Nglob = 90
 Kglob = 3
 
 ! --------------------PROCESSOR NUMBER-------------------------
-PX = 2
-PY = 2
+PX = 5
+PY = 1
 
 ! -----------------------TIME----------------------------------
 ! time: total computational time/ plot time / screen interval 
@@ -25,7 +25,6 @@ TOTAL_TIME = 4.0
 PLOT_START = 0.0
 PLOT_INTV =  0.02
 SCREEN_INTV = 0.02
-HOTSTART = F 
 
 ! ------------------------GRID----------------------------------
 ! grid sizes
